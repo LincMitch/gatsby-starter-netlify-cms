@@ -5,6 +5,8 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import { Button } from 'antd';
+import 'antd/dist/antd.css';
 
 export const IndexPageTemplate = ({
   image,
@@ -16,6 +18,13 @@ export const IndexPageTemplate = ({
   intro,
 }) => (
   <div>
+  <div>
+    <Button type="primary">Primary</Button>
+    <Button>Default</Button>
+    <Button type="dashed">Dashed</Button>
+    <Button type="danger">Danger</Button>
+    <Button type="link">Link</Button>
+  </div>
     <div
       className="full-width-image margin-top-0"
       style={{
