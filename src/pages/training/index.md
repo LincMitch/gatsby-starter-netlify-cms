@@ -2,7 +2,7 @@
 templateKey: 'training-page'
 path: /training
 title: Our Training
-image: /img/jumbotron.jpg
+image: /img/Training.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
