@@ -13,8 +13,7 @@ intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        #AGILE COACHING
-        Scrum Masters and Agile Coaches bring an Agile and Lean mindset coupled with a depth of skills and on the ground experiences. They help teach, mentor, coach and facilitate organisations, product owners and teams through their journey towards greater business agility.
+        AGILE COACHINGScrum Masters and Agile Coaches bring an Agile and Lean mindset coupled with a depth of skills and on the ground experiences. They help teach, mentor, coach and facilitate organisations, product owners and teams through their journey towards greater business agility.
 
         We are servant leaders first, serving organisations through aligning on a shared purpose, raising awareness of what is trying to happen and working with people to co-create successful change.
 
@@ -52,7 +51,10 @@ intro:
 main:
   heading: Great coffee with no compromises
   description: >
-    description
+    We hold our coffee to the highest standards from the shrub to the cup.
+    That’s why we’re meticulous and transparent about each step of the coffee’s
+    journey. We personally visit each farm to make sure the conditions are
+    optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -71,6 +73,7 @@ testimonials:
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
       stance on empowering farmers and transparency.
+full_image: /img/products-full-width.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
@@ -85,18 +88,18 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: '50'
-    # - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
-    #   items:
-    #     - 6 lbs of coffee per month
-    #     - Green or roasted beans
-    #     - Up to 4 different varieties of beans
-    #   plan: Big
-    #   price: '80'
-    # - description: Want a few tiny batches from different varieties? Try our custom plan
-    #   items:
-    #     - Whatever you need
-    #     - Green or roasted beans
-    #     - Unlimited varieties
-    #   plan: Custom
-    #   price: '??'
+    - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
+      items:
+        - 6 lbs of coffee per month
+        - Green or roasted beans
+        - Up to 4 different varieties of beans
+      plan: Big
+      price: '80'
+    - description: Want a few tiny batches from different varieties? Try our custom plan
+      items:
+        - Whatever you need
+        - Green or roasted beans
+        - Unlimited varieties
+      plan: Custom
+      price: '??'
 ---
