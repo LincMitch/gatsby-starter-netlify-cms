@@ -19,11 +19,12 @@ intro:
         with a depth of skills and on the ground experiences. They help teach,
         mentor, coach and facilitate organisations, product owners and teams
         through their journey towards greater business agility.
+        ## Heading with 1 line below
 
         We are servant leaders first, serving organisations through aligning on
         a shared purpose, raising awareness of what is trying to happen and
         working with people to co-create successful change.
-
+        ## Heading with 2 line3 below
         We can help as a Scrum Master or Agile Coach, our goal remains to
         support the growth of your people and organisation so that you are self
         sufficient so we are no longer needed. Get in touch to explore further
