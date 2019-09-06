@@ -33,7 +33,10 @@ intro:
         how we can help.
     - image: /img/coffee-gear.png
       text: >
-        FACILITATION Facilitation is a core skill for an Agile Coach / Scrum
+        
+        ## FACILITATION
+
+        Thus is a core skill for an Agile Coach / Scrum
         Master. We have facilitated hundreds of workshops over many years, from
         Inceptions that kick off new work with large groups to Sprint
         Retrospectives for small agile teams.
@@ -48,7 +51,10 @@ intro:
         upcoming workshop or Agile event please reach out.
     - image: /img/tutorials.png
       text: >
-        AGILE TRAINING The pace of change is accelerating, people are working on
+        
+        ## AGILE TRAINING 
+        
+        The pace of change is accelerating, people are working on
         complex problems and dealing with increasing uncertainty. The need to
         learn, adapt, innovate and deliver value sooner has never been more
         pressing.
@@ -62,7 +68,10 @@ intro:
         whilst providing a enjoyable learning experience.
     - image: /img/meeting-space.png
       text: >
-        AGILE CONSULTING Do you need specific help with Agile that’s not covered
+        
+        ## AGILE CONSULTING
+        
+        Do you need specific help with Agile that’s not covered
         by our other Services? You may want some specific advice, it might
         relate to problems you are experiencing or improvements you are seeking.
         Perhaps you already have Agile working well in technology with a few
