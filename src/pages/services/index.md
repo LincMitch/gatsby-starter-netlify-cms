@@ -14,19 +14,18 @@ intro:
       text: >-
         ## AGILE COACHING
 
-
         xScrum Masters and Agile Coaches bring an Agile and Lean mindset coupled
         with a depth of skills and on the ground experiences. They help teach,
         mentor, coach and facilitate organisations, product owners and teams
-        through their journey towards greater business agility.
-        ## AGILE COACHING 2
+        through their journey towards greater business agility. 
 
+        ## AGILE COACHING 2
 
         We are servant leaders first, serving organisations through aligning on
         a shared purpose, raising awareness of what is trying to happen and
-        working with people to co-create successful change.
-        ## AGILE COACHING 3
+        working with people to co-create successful change. 
 
+        ## AGILE COACHING 3
 
         We can help as a Scrum Master or Agile Coach, our goal remains to
         support the growth of your people and organisation so that you are self
