@@ -19,13 +19,13 @@ intro:
         with a depth of skills and on the ground experiences. They help teach,
         mentor, coach and facilitate organisations, product owners and teams
         through their journey towards greater business agility.
-        ## Heading with 2 lines below
+        ## AGILE COACHING 2
 
 
         We are servant leaders first, serving organisations through aligning on
         a shared purpose, raising awareness of what is trying to happen and
         working with people to co-create successful change.
-        ## Heading with 2 lines below
+        ## AGILE COACHING 3
 
 
         We can help as a Scrum Master or Agile Coach, our goal remains to
