@@ -1,8 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { ServicePageTemplate } from '../../templates/service-page'
+import { TrainingPageTemplate } from '../../templates/training-page'
 
-const ServicePagePreview = ({ entry, getAsset }) => {
+const TrainingPagePreview = ({ entry, getAsset }) => {
   const entryBlurbs = entry.getIn(['data', 'intro', 'blurbs'])
   const blurbs = entryBlurbs ? entryBlurbs.toJS() : []
 
@@ -13,7 +13,7 @@ const ServicePagePreview = ({ entry, getAsset }) => {
   const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : []
 
   return (
-    <ServicePageTemplate
+    <TrainingPageTemplate
       image={entry.getIn(['data', 'image'])}
       title={entry.getIn(['data', 'title'])}
       heading={entry.getIn(['data', 'heading'])}
@@ -46,11 +46,11 @@ const ServicePagePreview = ({ entry, getAsset }) => {
   )
 }
 
-ServicePagePreview.propTypes = {
+TrainingPagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
   getAsset: PropTypes.func,
 }
 
-export default ServicePagePreview
+export default TrainingPagePreview
